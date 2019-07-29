@@ -48,9 +48,11 @@ npm install
 - To run the app in the development mode
   run this in the application folder from the command-line:
 
-````
+```
 npm start
-``` Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+```
+
+- Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 Alternatively you can do a [Deployment](https://facebook.github.io/create-react-app/docs/deployment) like so:
 
@@ -65,3 +67,4 @@ serve -s build
 
 - **[Washington Quiillupangui](https://github.com/phillipjohnston)**
 ```
+````
