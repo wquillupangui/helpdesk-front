@@ -66,7 +66,3 @@ serve -s build
 ## Author
 
 - **[Washington Quiillupangui](https://github.com/phillipjohnston)**
-
-```
-
-```
