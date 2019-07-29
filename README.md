@@ -56,7 +56,7 @@ npm start
 
 Alternatively you can do a [Deployment](https://facebook.github.io/create-react-app/docs/deployment) like so:
 
-````
+```
 
 npm install -g serve
 serve -s build
@@ -66,5 +66,7 @@ serve -s build
 ## Author
 
 - **[Washington Quiillupangui](https://github.com/phillipjohnston)**
+
 ```
-````
+
+```
